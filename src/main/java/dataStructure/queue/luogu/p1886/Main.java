@@ -1,4 +1,4 @@
-package graph.queue.luogu.p1886;
+package dataStructure.queue.luogu.p1886;
 
 import java.io.BufferedReader;
 import java.io.IOException;

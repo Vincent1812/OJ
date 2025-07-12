@@ -1,4 +1,4 @@
-package graph.heap.luogu.p1631;
+package dataStructure.heap.luogu.p1631;
 
 import java.io.BufferedReader;
 import java.io.IOException;
