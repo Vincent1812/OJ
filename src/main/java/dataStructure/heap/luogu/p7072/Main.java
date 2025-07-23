@@ -1,4 +1,4 @@
-package com.cxn.dataStructure.heap.p7072;
+package dataStructure.heap.luogu.p7072;
 
 import java.io.BufferedReader;
 import java.io.IOException;
